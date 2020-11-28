@@ -1,4 +1,3 @@
-
 myGreeting = "Хеллоу,"
 myName = "Василевский,"
 mySurname = "Даниил,"
@@ -7,7 +6,6 @@ myBorn = "Великий Новгород,"
 myStudy = "Строительном колледже."
 myLive = "Великий Новгород."
 myHobby = "программированием."
-myRareHobby = 1.5
 myAccess = "Постоянно"
 myActivity = "рыбалку,"
 difСity = "Боровичах, Питере."
